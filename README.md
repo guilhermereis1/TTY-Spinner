@@ -1,9 +1,10 @@
 <div align="center">
-  <a href="https://piotrmurach.github.io/tty" target="_blank"><img width="130" src="https://github.com/piotrmurach/tty/raw/master/images/tty.png" alt="tty logo" /></a>
-</div>
-<div align="center">
   <a href="https://piotrmurach.github.io/tty" target="_blank"><img width="100%" src="https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_yaluqw.png" alt="tty logo" /></a>
 </div>
+<div align="center">
+  <a href="https://piotrmurach.github.io/tty" target="_blank"><img width="130" src="https://github.com/piotrmurach/tty/raw/master/images/tty.png" alt="tty logo" /></a>
+</div>
+
 
 
 # TTY::Spinner [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
