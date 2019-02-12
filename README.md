@@ -35,7 +35,7 @@
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'tty-spinner'
+gem 'tty-spinner', github: 'guilhermereis1/TTY-Spinner'
 ```
 
 And then execute:
